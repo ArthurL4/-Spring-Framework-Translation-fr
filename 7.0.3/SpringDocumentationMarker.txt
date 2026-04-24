@@ -2,7 +2,7 @@ SpringDocumentationMarker.txt sert de marker pour indiquer les modifications et 
 la retranscription de la documentation de SpringFramework dans des fichiers Markdown.
 
 ##############################
-### Numéro page courant: 13###
+### Numéro page courant: 22###
 ##############################
 
 06/02/2026: 
@@ -69,3 +69,50 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 -Création du fichier "Autocâblage des collaborateurs.md"
 -Traduction page :https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-autowire.html
 -Création du fichier "Injection par methode.md"
+
+09/03/2026:
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-method-injection.html
+-Mise à jour de la hiérarchie des dossiers: création dossier "Le conteneur d inversion de controle"
+-Création du fichier "Portée des Beans.md"
+
+16/03/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/factory-scopes.html
+-Création du fichier "Personnaliser la Nature d'un Bean.md"
+
+30/03/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/factory-nature.html
+-Création du fichier "Héritage de la définition d'un bean.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/child-bean-definitions.html
+-Création du fichier "Points d Extension du Conteneur.md"
+
+03/04/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/factory-extension.html
+
+10/04/2026:
+
+-Création du dossier "Configuration du conteneur orientee Annotation"
+-Création du fichier "Configuration du conteneur orientee Annotation.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config.html
+-Création page: "Utiliser @Autowired.md"
+
+
+12/04/2026:
+
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired.html
+
+
+18/04/2026:
+
+-Création du fichier: "Utilisation de @Primary ou @Fallback.md"
+-Page traduire : https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-primary.html
+-Création du ficbier: "Autocablage fin par Qualifier.md"
+
+19/04/2026:
+
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-qualifiers.html
+-Création du fichier: "Uitilisation des génériques comme Qualifiers d'autocâblage.md"
+-Création du fichier: "Utilisation des Génériques comme Qualifiers d'autocâblage.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/generics-as-qualifiers.html
+
+24/04/2026:
+
