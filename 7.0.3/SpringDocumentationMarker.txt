@@ -1,0 +1,71 @@
+SpringDocumentationMarker.txt sert de marker pour indiquer les modifications et actions entreprises dans 
+la retranscription de la documentation de SpringFramework dans des fichiers Markdown.
+
+##############################
+### Numéro page courant: 13###
+##############################
+
+06/02/2026: 
+-Ouverture projet "SpringDocumentation",
+-Edit du fichier "SpringDocumentationMarker"
+-La traduction sera faite sur la partie "Spring Framework" -> https://docs.spring.io/spring-framework/reference/index.html --version 7.0.3, étant la dernière release à ce jour.
+---
+-Création fichier "Aperçu.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/overview.html
+---
+-Création du répertoire "7.0.3/Core Technologies"
+---
+-Création du fichier "Core Technologies.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core.html
+---
+-Création du fichier "Le conteneur d'inversion de contrôle.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans.html
+---
+-Création du fichier "Introduction au conteneur d'inversion de contrôle et aux Beans.md"
+
+
+07/02/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/introduction.html
+
+
+10/02/2026:
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/basics.html partiel -> continuer à partir de 'Composing XML-based Configuration Metadata'
+
+11/02/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/basics.html
+---
+-Création du fichier "Aperçu d'un Bean.md"
+
+
+16/02/2026:
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/definition.html partiel -> continuer à partir de 'Aliasing a Bean outside the Bean Definition'
+
+
+20/02/2026:
+-Page traduite:  https://docs.spring.io/spring-framework/reference/core/beans/definition.html
+---
+-Création du répertoire "7.0.3/Core Technologies/Dependances"
+---
+-Création du fichier "Dependances.md"
+
+22/02/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/dependencies.html
+---
+-Création du fichier "Injection de Dépendances.md"
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html partiel -> continuer à partir de 'Dependency Resolution Process'
+
+23/02/2026:
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html
+-Création du fichier: "Dependances et Configuration en Detail.md"
+
+01/03/2026:
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-properties-detailed.html
+-Création du fichier "Utiliser Depends-On.md"
+-Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-dependson.html
+-Création du fichier "Initialisation paresseuse des Beans.md"
+
+02/03/2026:
+-Traducation page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-lazy-init.html
+-Création du fichier "Autocâblage des collaborateurs.md"
+-Traduction page :https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-autowire.html
+-Création du fichier "Injection par methode.md"
