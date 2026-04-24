@@ -34,7 +34,7 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 11/02/2026:
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/basics.html
 ---
--Création du fichier "Aperçu d'un Bean.md"
+-Création du fichier "Aperçu d'un Bean.md"git 
 
 
 16/02/2026:
