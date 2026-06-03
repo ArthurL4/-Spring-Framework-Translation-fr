@@ -2,7 +2,7 @@ SpringDocumentationMarker.txt sert de marker pour indiquer les modifications et 
 la retranscription de la documentation de SpringFramework dans des fichiers Markdown.
 
 ##############################
-### Numéro page courant: 22###
+### Numéro page courant: 23###
 ##############################
 
 06/02/2026: 
@@ -60,7 +60,7 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 
 01/03/2026:
 -Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-properties-detailed.html
--Création du fichier "Utiliser Depends-On.md"
+-Création du fichier "Utilisation Depends-On.md"
 -Traduction page: https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-dependson.html
 -Création du fichier "Initialisation paresseuse des Beans.md"
 
@@ -93,7 +93,7 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 -Création du dossier "Configuration du conteneur orientee Annotation"
 -Création du fichier "Configuration du conteneur orientee Annotation.md"
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config.html
--Création page: "Utiliser @Autowired.md"
+-Création page: "Utilisation de @Autowired.md"
 
 
 12/04/2026:
@@ -110,9 +110,12 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 19/04/2026:
 
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-qualifiers.html
--Création du fichier: "Uitilisation des génériques comme Qualifiers d'autocâblage.md"
+-Création du fichier: "Utilisation des génériques comme Qualifiers d'autocâblage.md"
 -Création du fichier: "Utilisation des Génériques comme Qualifiers d'autocâblage.md"
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/generics-as-qualifiers.html
 
-24/04/2026:
+03/06/2026
 
+-Création du fichier: "Utilisation de CustomAutowireConfigurer.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/custom-autowire-configurer.html
+-Création du fichier: "Injection avec Resource.md"
