@@ -2,7 +2,7 @@ SpringDocumentationMarker.txt sert de marker pour indiquer les modifications et 
 la retranscription de la documentation de SpringFramework dans des fichiers Markdown.
 
 ##############################
-### Numéro page courant: 23###
+### Numéro page courant: 26###
 ##############################
 
 06/02/2026: 
@@ -111,7 +111,6 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-qualifiers.html
 -Création du fichier: "Utilisation des génériques comme Qualifiers d'autocâblage.md"
--Création du fichier: "Utilisation des Génériques comme Qualifiers d'autocâblage.md"
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/generics-as-qualifiers.html
 
 03/06/2026
@@ -119,3 +118,14 @@ la retranscription de la documentation de SpringFramework dans des fichiers Mark
 -Création du fichier: "Utilisation de CustomAutowireConfigurer.md"
 -Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/custom-autowire-configurer.html
 -Création du fichier: "Injection avec Resource.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/resource.html
+
+
+19/06/2026
+
+-Création du fichier: "Utilisation de @Value.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/value-annotations.html
+-Création du fichier: "Utilisation de @PostConstruct et @PreDestroy.md"
+-Page traduite: https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/postconstruct-and-predestroy-annotations.html
+
+
